@@ -1,0 +1,15 @@
+.contact {
+  padding: 7px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  margin: auto 0;
+  height: 30px;
+  border-radius: 8px;
+  border-style: none;
+  background-color: rgb(237, 230, 222);
+  font-weight: 500;
+}

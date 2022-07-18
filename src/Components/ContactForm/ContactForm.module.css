@@ -1,0 +1,36 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  padding: 20px;
+  border: 1px solid blakc;
+  border-radius: 5px;
+  background-color: rgb(171, 216, 218);
+}
+
+.input {
+  width: 200px;
+  font-size: 16px;
+  height: 25px;
+  margin-bottom: 20px;
+}
+
+.input:valid {
+  border: 2px solid lightblue;
+  border-radius: 4px;
+  background-image: linear-gradient(to left, lightgreen, lightblue);
+}
+
+.input:invalid {
+  border: 2px solid coral;
+  border-radius: 4px;
+  background-image: linear-gradient(to right, pink, lightgreen);
+}
+
+.button {
+  height: 30px;
+  border-radius: 8px;
+  border-style: none;
+  background-color: rgb(237, 230, 222);
+  font-weight: 700;
+}
