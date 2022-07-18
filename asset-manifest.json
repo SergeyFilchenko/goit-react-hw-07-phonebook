@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SergeyFilchenko/goit-react-hw-07-phonebook/static/css/main.21152b9a.css",
+    "main.js": "/SergeyFilchenko/goit-react-hw-07-phonebook/static/js/main.bfa65ce3.js",
+    "index.html": "/SergeyFilchenko/goit-react-hw-07-phonebook/index.html",
+    "main.21152b9a.css.map": "/SergeyFilchenko/goit-react-hw-07-phonebook/static/css/main.21152b9a.css.map",
+    "main.bfa65ce3.js.map": "/SergeyFilchenko/goit-react-hw-07-phonebook/static/js/main.bfa65ce3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21152b9a.css",
+    "static/js/main.bfa65ce3.js"
+  ]
+}
